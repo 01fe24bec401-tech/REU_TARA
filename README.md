@@ -34,7 +34,7 @@ system architecture diagram.
 2. **Stage 2:** ChromaDB retrieval over a threat and mitigation corpus
 3. **Stage 3:** Gemini generates TARA rows as JSON, using an explicit ISO 21434 risk matrix in the prompt
 
-## Current Progress (as of 23 Nov 2026)
+## Current Progress 
 - [✓] End-to-end pipeline working on Google Colab
 - [✓] Case study: TPMS (7 components, 21-chunk corpus). 6/6 coverage vs Xu et al., 100% format compliance, 100% groundedness
 - [✓] Case study: BCM Car A (6 components, 30-chunk corpus). 5/5 coverage vs DefenseWeaver
