@@ -18,9 +18,9 @@ system architecture diagram.
 ## Team Members
 | Name | Role |
 |------|------|
-| Shrusti | [role, e.g. Developer / Team representative] |
-| [Name] | [role] |
-| [RA / Mentor] | Concerned RA |
+| Shrusti |
+| [Name] | [Student] |
+| [ Mentor] | Bhagyashree] |
 
 ## Technologies / Tools Used
 - Python, Google Colab
